@@ -1,0 +1,9 @@
+1.0.0
+/
+/index.html
+/manifest.json
+/assets/css/style.css
+/assets/js/pwa-register.js
+/assets/js/app.js
+/assets/icon-192.png
+/assets/icon-512.png
